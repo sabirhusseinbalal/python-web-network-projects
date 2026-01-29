@@ -15,4 +15,5 @@ progressing from beginner to advanced real-world projects.
 - Fetch City Weather Info
 - Save Screenshot of Website
 - Website Summarization
-
+- News Website Scraper
+- Quote Scraper
