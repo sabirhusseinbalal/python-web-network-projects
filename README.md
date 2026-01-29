@@ -34,4 +34,4 @@ progressing from beginner to advanced real-world projects.
 7. [Bots & Automation](https://github.com/sabirhusseinbalal/python-bots-automation)
 8. [Advanced Python Projects](https://github.com/sabirhusseinbalal/python-advanced-projects)
    
-                              [<](https://github.com/sabirhusseinbalal/python-file-system-automation)-[>](https://github.com/sabirhusseinbalal/python-media-processing)
+                              [<](https://github.com/sabirhusseinbalal/python-file-system-automation) [>](https://github.com/sabirhusseinbalal/python-media-processing)
