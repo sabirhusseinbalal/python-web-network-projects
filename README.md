@@ -9,16 +9,16 @@ The goal is to understand how real-world data flows through the internet and how
 📂 Projects
 ✔ HTTP Status & Header Inspector 
 ✔ URL Metadata Extractor
-DNS & IP Analyzer (in progress)
-Website Response Time Analyzer
-Website Change Detector
-API Data Collector
-Authenticated API Client
-Rate-Limited API Handler
-Weather API Logger
-News API Aggregator
-Webhook Sender & Listener
-Async Web Scraper
+- DNS & IP Analyzer (in progress)
+- Website Response Time Analyzer
+- Website Change Detector
+- API Data Collector
+- Authenticated API Client
+- Rate-Limited API Handler
+- Weather API Logger
+- News API Aggregator
+- Webhook Sender & Listener
+- Async Web Scraper
 
 ---In progress....
 
