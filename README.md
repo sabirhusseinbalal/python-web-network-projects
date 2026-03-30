@@ -1,22 +1,26 @@
-### python-web-network-projects
+# Python Web, Network & API Automation
+## Description
 
-This repository is part of a structured Python learning roadmap,
-progressing from beginner to advanced real-world projects.
+This repository contains Python projects focused on web requests, APIs, networking, and data collection.
 
-## 📌 Planned Projects
+The goal is to understand how real-world data flows through the internet and how to interact with websites programmatically.
 
-1. HTTP Status & Header Inspector		Phase 1 – Network Fundamentals
-2. URL Metadata Extractor		
-3. DNS & IP Analyzer		
-4. Website Response Time Analyzer		
-5. Website Change Detector		
-6. API Data Collector (JSON → CSV/DB)		Phase 2 – APIs & Data Engineering
-7. Authenticated API Client (Bearer/API keys)		
-8. Rate-Limited API Handler (retry/backoff)		
-9. Weather API Logger (scheduled)		
-10. News API Aggregator		
-11. Webhook Sender & Listener		
-12. Async Web Scraper (aiohttp)		Phase 3 – Scraping & Crawling
+...
+📂 Projects
+✔ HTTP Status & Header Inspector 
+✔ URL Metadata Extractor
+DNS & IP Analyzer (in progress)
+Website Response Time Analyzer
+Website Change Detector
+API Data Collector
+Authenticated API Client
+Rate-Limited API Handler
+Weather API Logger
+News API Aggregator
+Webhook Sender & Listener
+Async Web Scraper
+
+---In progress....
 
 ### Clone the repository using the command:
    ```bash
