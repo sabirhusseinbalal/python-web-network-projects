@@ -53,13 +53,12 @@ Exiting...
 ```
 
 ## Features
-- Accepts URL input from user
-- Automatically fixes URL format
+- Accepts URL input
+- Automatically fixes missing https://
 - Detects website changes using hash comparison
-- Saves website data for future checks
-- Handles request errors and timeouts
-- Loop until user exits
-- Simple and beginner-friendly logic
+- Saves data for future checks
+- Handles errors and timeouts
+- Loop until exit
 
 
 ## Project Structure
