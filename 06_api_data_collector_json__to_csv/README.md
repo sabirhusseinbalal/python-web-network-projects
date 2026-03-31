@@ -50,13 +50,10 @@ Enter URL (or 'q' to quit):
 
 ## Features
 - Accepts API URL input
-- Automatically fixes URL format
-- Supports list and single JSON response
-- Converts JSON to CSV using pandas
-- Saves output to CSV file
-- Handles request errors and timeouts
-- Loop until user exits
-- Simple and beginner-friendly logic
+- Uses basic authentication
+- Displays JSON response
+- Handles errors and timeouts
+- Loop until exit
 
 
 ## Project Structure
