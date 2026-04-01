@@ -43,6 +43,6 @@ python sender.py
 ```
 
 ## Notes
-- The listener must be running before sending messages.
-- Replace 127.0.0.1 with a public URL if deploying on a server.
-- Good practice for learning real-world webhook usage.
+- Run listener first
+- Then run sender
+- Uses local server (127.0.0.1)
