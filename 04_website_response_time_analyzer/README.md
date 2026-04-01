@@ -27,14 +27,12 @@ Enter URL (or 'q' to quit):
 ```
 
 ## Features
-- Accepts URL input from the user
-- Automatically fixes missing https://
-- Sends multiple requests to improve accuracy
+- Accepts URL input
+- Fixes missing `https://`
+- Sends multiple requests
 - Calculates average response time
-- Displays clean output
-- Handles request errors and timeouts
-- Loop until user exits
-- Simple and beginner-friendly logic
+- Handles errors
+- Loop until exit
 
 
 ## Project Structure
@@ -45,6 +43,5 @@ Enter URL (or 'q' to quit):
 ```
 
 ## Notes
-- Response time may vary due to network conditions
-- Some websites may respond slower or block requests
-- Focus is on understanding performance measurement
+- Response time varies with network conditions
+- Focus is on performance measurement
