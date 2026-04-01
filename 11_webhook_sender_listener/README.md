@@ -28,12 +28,10 @@ python sender.py
 4. Messages will appear in the listener terminal.
 
 ## Features
-- Accepts user input or random message.
-- Sends JSON POST requests to listener.
-- Listener prints received messages with timestamp.
-- Beginner-friendly and clean logic.
-- Easy to extend for real webhooks.
-
+- Receives POST requests (listener)
+- Sends messages to webhook (sender)
+- Handles JSON data
+- Simple real-world example
 
 
 ## Project Structure
