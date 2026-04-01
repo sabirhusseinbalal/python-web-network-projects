@@ -40,13 +40,12 @@ Exiting...
 ```
 
 ## Features
-- Accepts city input from user
-- Fetches real-time weather data
-- Extracts selected fields only
-- Saves data into CSV file
-- Appends new data (does not overwrite)
-- Handles missing values safely
-- Simple and beginner-friendly logic
+- Accepts city input
+- Fetches weather data from API
+- Saves results to CSV
+- Appends new data to existing file
+- Handles errors and timeouts
+- Loop until exit
 
 
 
