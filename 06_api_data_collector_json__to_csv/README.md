@@ -7,7 +7,7 @@ This project sends a request to an API, receives JSON data, and converts it into
 It supports both:
 - List of records
 - Single JSON object
-This is a basic step toward data engineering and real-world data collection.
+
 
 ## Modules Used
 - `requests` – send HTTP requests
