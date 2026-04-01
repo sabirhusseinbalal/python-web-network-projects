@@ -54,15 +54,12 @@ Exiting...
 ```
 
 ## Features
-- Accepts URL input from user
-- Detects rate limiting (429 status)
-- Retries request with increasing delay
-- Stops retrying after max attempts
-- Handles normal and error responses
-- Measures total time taken
-- Loop until user exits
-- Simple and beginner-friendly logic
-
+- Accepts URL input
+- Automatically retries on rate limit (429)
+- Increases wait time between retries
+- Displays total attempts and time
+- Handles errors and timeouts
+- Loop until exit
 
 
 ## Project Structure
