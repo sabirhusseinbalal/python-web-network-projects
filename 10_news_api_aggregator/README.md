@@ -63,13 +63,11 @@ Enter Topic Name (or 'q' to quit):
 ```
 
 ## Features
-- Accepts topic input from user
-- Fetches data from API
-- Extracts only required fields (title, URL)
-- Limits output to 5 results
-- Handles missing data (None values)
-- Handles request errors and timeouts
-- Simple and beginner-friendly logic
+- Accepts topic input
+- Fetches news from API
+- Displays top results
+- Handles errors and timeouts
+- Loop until exit
 
 
 
