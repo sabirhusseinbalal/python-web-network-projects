@@ -38,14 +38,11 @@ Enter URL (or 'q' to quit):
 ```
 
 ## Features
-- Accepts URL input from user
-- Supports Bearer token authentication
-- Supports Basic Auth (username/password)
+- Accepts API URL input
+- Uses basic authentication
 - Displays JSON response
 - Handles errors and timeouts
-- Loop until user exits
-- Simple and beginner-friendly logic
-
+- Loop until exit
 
 
 ## Project Structure
