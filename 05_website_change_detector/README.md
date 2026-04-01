@@ -1,15 +1,13 @@
 # Website Change Detector
 
 ## Description
-Checks if a website has changed by comparing its current content with previously saved data.
-This project sends a request to a website, creates a hash of its content, and compares it with an old saved version.
-If the content is different, it means the website has changed.
-
+Detects if a website has changed by comparing its current content with previously saved data.
+Saves a hash of the website content and compares it on next runs.
 
 It shows:
-- Status code
+- HTTP status code
 - Change detection (updated or not)
-- Saves website automatically for future checks
+- Saves website hash for future checks
 
 ## Modules Used
 - `requests` – send HTTP requests
@@ -53,10 +51,8 @@ Exiting...
 ```
 
 ## Features
-- Accepts URL input
-- Automatically fixes missing https://
-- Detects website changes using hash comparison
-- Saves data for future checks
+- Detects website changes automatically
+- Saves content for future comparison
 - Handles errors and timeouts
 - Loop until exit
 
