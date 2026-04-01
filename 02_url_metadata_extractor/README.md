@@ -32,14 +32,12 @@ Enter URL (or 'q' to quit):
 ```
 
 ## Features
-- Accepts URL input from the user
-- Automatically fixes URLs starting with www.
-- Extracts page title safely
-- Extracts important meta tags (SEO + OpenGraph)
-- Skips empty or missing metadata
-- Handles request errors and timeouts
-- Loop until user exits
-- Simple and beginner-friendly logic
+- Accepts URL input
+- Automatically fixes `www.` URLs
+- Extracts title and meta tags
+- Skips missing metadata
+- Handles errors and timeouts
+- Loop until exit
 
 
 ## Project Structure
@@ -50,6 +48,5 @@ Enter URL (or 'q' to quit):
 ```
 
 ## Notes
-- Some websites may not have all metadata
-- Keywords tag is often missing in modern websites
-- Focus is on understanding HTML structure and parsing
+- Some pages may not have meta tags
+- Focus is on parsing HTML safely
