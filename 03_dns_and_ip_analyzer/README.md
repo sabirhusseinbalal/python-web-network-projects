@@ -3,12 +3,11 @@
 ## Description
 Analyzes a website by resolving its domain and retrieving the IP address.
 
-It extracts:
+It shows:
 - Requested URL
-- Extracted domain
+- Domain
 - HTTP status code
-- IP address of the domain
-This is a basic step toward understanding networking and how the internet works behind the scenes.
+- IP address
 
 ## Modules Used
 - `requests` – send HTTP requests
@@ -30,14 +29,11 @@ Enter URL (or 'q' to quit):
 ```
 
 ## Features
-- Accepts URL input from the user
-- Automatically fixes missing https://
-- Extracts domain from URL
-- Resolves domain to IP address using DNS
-- Displays HTTP status code
+- Accepts URL input
+- Fixes missing `https://`
+- Extracts domain and resolves IP
 - Handles invalid domains and connection errors
-- Loop until user exits
-- Simple and beginner-friendly logic
+- Loop until exit
 
 
 ## Project Structure
