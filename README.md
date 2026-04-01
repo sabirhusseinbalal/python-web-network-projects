@@ -10,25 +10,18 @@ Each project is simple, practical, and helps build real-world understanding of H
 
 ## Projects
 
-01. **[HTTP Status & Header Inspector](01_http_status_and_header_inspector/)** - Inspect website status codes and headers.
-02. **[URL Metadata Extractor](02_url_metadata_extractor/)** - Extract title and metadata from web pages.
-03. **[DNS & IP Analyzer](03_dns_and_ip_analyzer/)** - Get domain and IP address of a website.
-04. **[Website Response Time Analyzer](04_website_response_time_analyzer/)** - Measure website response speed.
-05. **[Website Change Detector](05_website_change_detector/)** - Detect changes in website content.
-06. **[API Data Collector](06_api_data_collector_json__to_csv/)** - Fetch API data and save it as CSV.
-07. **[Authenticated API Client](07_duplicate_files_remover/)** - Send authenticated API requests.
-08. **[Split Folders into Subfolders](08_split_folders_into_subfolders/)** - A Python script that takes all files from a folder (including nested files) and splits them into multiple subfolders in the `output/` folder.
-09. **[Compress Files & Folders](09_compress_files_and_folders/)** - A Python script that compresses a file or an entire folder into a ZIP archive.
-10. **[Zip File Extractor](10_zip_file_extractor/)** - A Python script that extracts a ZIP file into the `output/` folder.
-11. **[Rename Files in Bulk](11_rename_files_in_bulk/)** - A Python script that renames all files inside the `input/` folder automatically.
-12. **[Find and Replace in Text Files](12_find_and_replace_in_text_files/)** - A Python script that allows a user to edit files in two ways, line-based and word-based.
-13. **[Folder Size Analyzer](13_folder_size_analyzer/)** - A Python script that analyzes the total size and number of files in a folder (including all nested files and folders).
-14. **[Remove Empty Files & Folders](14_remove_empty_files_and_folders/)** - A Python script that cleans up a folder by removing all empty files and folders and also subfolders.
-15. **[Folder Monitor](15_monitor_folder_for_changes/)** - A Python script that monitors a folder and shows file changes in real time.
-16. **[Folder Backup](16_folder_backup/)** - A Python script that creates a full backup of a folder.
-17. **[File Permission Checker](17_file_permission_checker/)** - A Python script that checks file permissions inside a folder.
-18.  **[Search and Filter Files](18_search_and_filter_files/)** - A Python script that allows you to search and filter files in a folder in multiple ways.
-
+01. **[HTTP Status & Header Inspector](01_http_status_and_header_inspector/)** – Inspect website status codes and headers.
+02. **[URL Metadata Extractor](02_url_metadata_extractor/)** – Extract title and metadata from web pages.
+03. **[DNS & IP Analyzer](03_dns_and_ip_analyzer/)** – Get domain and IP address of a website.
+04. **[Website Response Time Analyzer](04_website_response_time_analyzer/)** – Measure website response speed.
+05. **[Website Change Detector](05_website_change_detector/)** – Detect changes in website content.
+06. **[API Data Collector](06_api_data_collector_json__to_csv/)** – Fetch API data and save it as CSV.
+07. **[Authenticated API Client](07_authenticated_api_client/)** – Send authenticated API requests.
+08. **[Rate-Limited API Handler](08_rate_limited_api_handler/)** – Handle API rate limits with retry logic.
+09. **[Weather API Logger](09_weather_api_logger/)** – Fetch and store weather data in CSV.
+10. **[News API Aggregator](10_news_api_aggregator/)** – Fetch and display news based on a topic.
+11. **[Webhook Sender & Listener](11_webhook_sender_listener/)** – Send and receive data using webhooks.
+12. **[Async Web Scraper](12_async_web_scraper/)** – Fetch multiple websites using async requests.
 ## How to Use
 
 ### Clone the repository using the command:
