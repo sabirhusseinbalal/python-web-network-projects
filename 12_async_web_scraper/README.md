@@ -52,11 +52,10 @@ Enter up to 5 URLs (or 'q' to quit):
 ```
 
 ## Features
-- Takes multiple URLs
-- Runs all requests at the same time
-- Extracts page title
-- Handles errors safely
-- Simple async logic
+- Fetches multiple URLs at once
+- Uses async for better performance
+- Extracts page titles
+- Handles errors gracefully
 
 
 
@@ -68,6 +67,5 @@ Enter up to 5 URLs (or 'q' to quit):
 ```
 
 ## Notes
-- Uses async instead of normal requests
-- Faster for multiple websites
-- Good intro to real-world scraping
+- Faster than sequential requests
+- Useful for large-scale scraping
