@@ -1,0 +1,42 @@
+# =========================
+# TEST URLS FOR PROJECTS
+# =========================
+
+# SUCCESS (200)
+https://httpbin.org/status/200
+https://jsonplaceholder.typicode.com/posts
+
+# NOT FOUND (404)
+https://httpbin.org/status/404
+https://jsonplaceholder.typicode.com/invalid
+
+# FORBIDDEN (403)
+https://httpbin.org/status/403
+https://openai.com
+
+# SERVER ERROR (500)
+https://httpbin.org/status/500
+
+# SLOW RESPONSE (timeout test)
+https://httpbin.org/delay/5
+
+# RATE LIMIT (429)
+https://httpbin.org/status/429
+
+# AUTH TEST
+https://httpbin.org/bearer
+https://httpbin.org/basic-auth/user/pass
+
+# HTML PAGES (for scraping)
+https://example.com
+https://github.com
+https://sabirhusseinbalal.github.io
+
+# JSON APIs
+https://jsonplaceholder.typicode.com/posts
+https://jsonplaceholder.typicode.com/users
+https://api.github.com/users/octocat
+
+# INVALID (error testing)
+https://invalid-domain-xyz-123.com
+https://abc.thisdoesnotexist
