@@ -22,6 +22,10 @@ Each project is simple, practical, and helps build real-world understanding of H
 10. **[News API Aggregator](10_news_api_aggregator/)** – Fetch and display news based on a topic.
 11. **[Webhook Sender & Listener](11_webhook_sender_listener/)** – Send and receive data using webhooks.
 12. **[Async Web Scraper](12_async_web_scraper/)** – Fetch multiple websites using async requests.
+
+You can use sample test URLs from **[`urls.txt`](urls.txt)** to try all projects.
+
+
 ## How to Use
 
 ### Clone the repository using the command:
