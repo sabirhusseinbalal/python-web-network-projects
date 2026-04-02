@@ -23,9 +23,9 @@ Each project is simple, practical, and helps build real-world understanding of H
 11. **[Webhook Sender & Listener](11_webhook_sender_listener/)** – Send and receive data using webhooks.
 12. **[Async Web Scraper](12_async_web_scraper/)** – Fetch multiple websites using async requests.
 
--
-You can use sample test URLs from **[`urls.txt`](urls.txt)** to try all projects.
--
+---
+***You can use sample test URLs from **[`urls.txt`](urls.txt)** to try all projects.***
+---
 
 ## How to Use
 
