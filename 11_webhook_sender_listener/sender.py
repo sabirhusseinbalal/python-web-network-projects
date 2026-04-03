@@ -18,7 +18,7 @@ messages = [
 
 while True:
     try:
-        msg = input("\nEnter message (or press Enter for random, 'q' to quit): ").strip()
+        msg = input("\nEnter message (or press Enter for random, 'q' to quit): ")
 
         if msg.lower() == "q":
             print("Exiting...")
