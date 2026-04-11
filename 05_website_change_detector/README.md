@@ -9,6 +9,9 @@ It shows:
 - Change detection (updated or not)
 - Saves website hash for future checks
 
+**YouTube Video:**
+[[Website Change Detector | Web, Network & API Automation (Project 5)](https://youtu.be/fqj-bcpDsPk/)]
+
 ## Modules Used
 - `requests` – send HTTP requests
 - `hashlib` – create hash of content
