@@ -13,6 +13,9 @@ It shows:
 - Related URLs
 - Clean and limited output (first 5 results)
 
+**YouTube Video:**
+[[News API Aggregator | Web, Network & API Automation (Project 10)](https://youtu.be/oD-blCPlETg/)]
+
 ## Modules Used
 - `requests` – send HTTP requests
 - `json` – handle API response data
