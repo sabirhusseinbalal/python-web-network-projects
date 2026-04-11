@@ -8,6 +8,9 @@ It shows:
 - HTTP status code
 - Average response time
 
+**YouTube Video:**
+[[Website Response Time Analyzer | Web, Network & API Automation (Project 4)](https://youtu.be/enutauD290U/)]
+
 ## Modules Used
 - `requests` – send HTTP requests
 - `time` – measure execution time
