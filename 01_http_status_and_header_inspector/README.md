@@ -9,6 +9,9 @@ It shows:
 - Response headers (metadata about the page)
 - Handles basic user errors and timeouts
 
+**YouTube Video:**
+[[HTTP Status & Header Inspector | Web, Network & API Automation (Project 1)](https://youtu.be/4npsk48_QaA/)]
+
 
 ## Modules Used
 - `requests` – send HTTP requests and get responses
