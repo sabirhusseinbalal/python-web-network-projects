@@ -6,6 +6,9 @@ Learn how data flows through the internet and how to interact with websites prog
 
 Each project is simple, practical, and helps build real-world understanding of HTTP, APIs, and web automation.
 
+**Watch Full YouTube Playlist:**
+[[Web, Network & API Automation – 12 Projects (Group-3)](https://youtube.com/playlist?list=PLBslpEV463Be8Pa43yZBdVxiETT7oQC5z&si=XeqO9Ou5jT0xD8bz/)]
+
 ---
 
 ## Projects
