@@ -11,6 +11,9 @@ It extracts:
 - Open Graph data (og:title, og:description)
 This is a basic step toward web scraping and SEO analysis.
 
+**YouTube Video:**
+[[URL Metadata Extractor | Web, Network & API Automation (Project 2)](https://youtu.be/RGrFaAsHqmM/)]
+
 ## Modules Used
 - `requests` – send HTTP requests
 - `bs4 (BeautifulSoup)` – parse HTML content
