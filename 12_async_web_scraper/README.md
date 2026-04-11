@@ -9,6 +9,8 @@ It extracts:
 - Page title
 This is faster than normal requests and introduces async concepts.
 
+**YouTube Video:**
+[[Async Web Scraper | Web, Network & API Automation (Project 12)](https://youtu.be/hk9GSR_mETI/)]
 
 ## Modules Used
 - `aiohttp` – async HTTP requests
