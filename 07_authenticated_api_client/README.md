@@ -9,6 +9,9 @@ It supports:
 - Basic Authentication (username & password)
 This is an important step toward working with real-world APIs.
 
+**YouTube Video:**
+[[Authenticated API Client | Web, Network & API Automation (Project 7)](https://youtu.be/IcdLfajVrZc/)]
+
 ## Modules Used
 - `requests` – send HTTP requests
 - `requests.auth` – handle Basic Authentication
