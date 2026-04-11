@@ -9,6 +9,9 @@ It shows:
 - HTTP status code
 - IP address
 
+**YouTube Video:**
+[[DNS & IP Analyzer | Web, Network & API Automation (Project 3)](https://youtu.be/4qlDKL5il0A/)]
+
 ## Modules Used
 - `requests` – send HTTP requests
 - `socket` – resolve domain to IP address
