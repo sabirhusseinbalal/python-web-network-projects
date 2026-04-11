@@ -10,6 +10,9 @@ It extracts:
 - Humidity
 This is a basic automation script that simulates real-world data logging.
 
+**YouTube Video:**
+[[Weather API Logger | Web, Network & API Automation (Project 9)](https://youtu.be/NvEZKi4qiEk/)]
+
 ## Modules Used
 - `requests` – fetch API data
 - `datetime` – get current date
