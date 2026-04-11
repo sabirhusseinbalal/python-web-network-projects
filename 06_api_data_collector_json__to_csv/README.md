@@ -8,6 +8,8 @@ It supports both:
 - List of records
 - Single JSON object
 
+**YouTube Video:**
+[[API Data Collector (JSON → CSV) | Web, Network & API Automation (Project 6)](https://youtu.be/M12ztEAsU40/)]
 
 ## Modules Used
 - `requests` – send HTTP requests
