@@ -9,6 +9,9 @@ It handles:
 - Rate-limited responses (429)
 - Other errors (404, 500, etc.)
 
+**YouTube Video:**
+[[Rate-Limited API Handler | Web, Network & API Automation (Project 8)](https://youtu.be/OYvbxNX31oI/)]
+
 ## Modules Used
 - `requests` – send HTTP requests
 - `time` – handle delays and measure time
