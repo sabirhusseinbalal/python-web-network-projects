@@ -10,7 +10,7 @@ It extracts:
 This is faster than normal requests and introduces async concepts.
 
 **YouTube Video:**
-[[Async Web Scraper | Web, Network & API Automation (Project 12)](https://youtu.be/hk9GSR_mETI/)]
+[[Async Web Scraper | Web, Network & API Automation (Project 12)](https://youtu.be/OUYz4dn3Uz8/)]
 
 ## Modules Used
 - `aiohttp` – async HTTP requests
