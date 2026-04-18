@@ -30,8 +30,6 @@ Each project is simple, practical, and helps build real-world understanding of H
 ***You can use sample test URLs from **[`urls.txt`](urls.txt)** to try all projects.***
 ---
 
-## How to Use
-
 ### Clone the repository using the command:
    ```bash
    git clone https://github.com/Sabirhusseinbalal/python-web-network-projects.git
