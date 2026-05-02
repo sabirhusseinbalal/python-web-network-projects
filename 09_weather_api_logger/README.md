@@ -11,7 +11,7 @@ It extracts:
 This is a basic automation script that simulates real-world data logging.
 
 **YouTube Video:**
-[[Weather API Logger | Web, Network & API Automation (Project 9)](https://youtu.be/NvEZKi4qiEk/)]
+[[Weather API Logger | Web, Network & API Automation (Project 9)](https://youtu.be/NvEZKi4qiEk?si=F2c3uHsfLvzgQKPM/)]
 
 ## Modules Used
 - `requests` – fetch API data
