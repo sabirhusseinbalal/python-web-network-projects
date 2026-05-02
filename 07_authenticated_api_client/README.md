@@ -10,7 +10,7 @@ It supports:
 This is an important step toward working with real-world APIs.
 
 **YouTube Video:**
-[[Authenticated API Client | Web, Network & API Automation (Project 7)](https://youtu.be/IcdLfajVrZc/)]
+[[Authenticated API Client | Web, Network & API Automation (Project 7)](https://youtu.be/IcdLfajVrZc?si=jE7ncVmGisl3kPFe/)]
 
 ## Modules Used
 - `requests` – send HTTP requests
