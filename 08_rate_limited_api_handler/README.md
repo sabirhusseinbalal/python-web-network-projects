@@ -10,7 +10,7 @@ It handles:
 - Other errors (404, 500, etc.)
 
 **YouTube Video:**
-[[Rate-Limited API Handler | Web, Network & API Automation (Project 8)](https://youtu.be/OYvbxNX31oI/)]
+[[Rate-Limited API Handler | Web, Network & API Automation (Project 8)](https://youtu.be/OYvbxNX31oI?si=Q60S_epOc93kaRDJ/)]
 
 ## Modules Used
 - `requests` – send HTTP requests
