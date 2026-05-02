@@ -10,7 +10,7 @@ It shows:
 - Handles basic user errors and timeouts
 
 **YouTube Video:**
-[[HTTP Status & Header Inspector | Web, Network & API Automation (Project 1)](https://youtu.be/4npsk48_QaA/)]
+[[HTTP Status & Header Inspector | Web, Network & API Automation (Project 1)](https://youtu.be/4npsk48_QaA?si=AxEfzDwb_JKheGVs/)]
 
 
 ## Modules Used
