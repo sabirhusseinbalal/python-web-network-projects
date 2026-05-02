@@ -12,7 +12,7 @@ It extracts:
 This is a basic step toward web scraping and SEO analysis.
 
 **YouTube Video:**
-[[URL Metadata Extractor | Web, Network & API Automation (Project 2)](https://youtu.be/RGrFaAsHqmM/)]
+[[URL Metadata Extractor | Web, Network & API Automation (Project 2)](https://youtu.be/RGrFaAsHqmM?si=hpSyQx6ZtdpMLQWp/)]
 
 ## Modules Used
 - `requests` – send HTTP requests
