@@ -10,7 +10,7 @@ It shows:
 - IP address
 
 **YouTube Video:**
-[[DNS & IP Analyzer | Web, Network & API Automation (Project 3)](https://youtu.be/4qlDKL5il0A/)]
+[[DNS & IP Analyzer | Web, Network & API Automation (Project 3)](https://youtu.be/4qlDKL5il0A?si=W3h-nNCKOvDUwtMR/)]
 
 ## Modules Used
 - `requests` – send HTTP requests
