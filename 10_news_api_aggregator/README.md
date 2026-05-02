@@ -14,7 +14,7 @@ It shows:
 - Clean and limited output (first 5 results)
 
 **YouTube Video:**
-[[News API Aggregator | Web, Network & API Automation (Project 10)](https://youtu.be/oD-blCPlETg/)]
+[[News API Aggregator | Web, Network & API Automation (Project 10)](https://youtu.be/oD-blCPlETg?si=P35Ucy26SLtvb6ej/)]
 
 ## Modules Used
 - `requests` – send HTTP requests
