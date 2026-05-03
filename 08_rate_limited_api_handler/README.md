@@ -16,7 +16,7 @@ It handles:
 - `requests` – send HTTP requests
 - `time` – handle delays and measure time
 
-## Output
+## Output Example
 ```
 Enter URL (or 'q' to quit): https://httpbin.org/status/429
 Rate limited. Retrying in 1s...
