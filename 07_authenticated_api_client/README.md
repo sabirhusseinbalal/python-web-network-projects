@@ -16,7 +16,7 @@ This is an important step toward working with real-world APIs.
 - `requests` – send HTTP requests
 - `requests.auth` – handle Basic Authentication
 
-## Output
+## Output Example
 ```
 Enter URL (or 'q' to quit): https://httpbin.org/bearer
 
