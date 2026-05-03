@@ -17,7 +17,7 @@ It shows:
 - `hashlib` – create hash of content
 - `pathlib` – handle file paths
 
-## Output
+## Output Example
 ```
 Enter URL (or 'q' to quit): asd
 Request Error: HTTPSConnectionPool(host='asd', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='asd', port=443): Failed to resolve 'asd' ([Errno 11001] getaddrinfo failed)"))
