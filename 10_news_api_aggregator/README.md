@@ -20,7 +20,7 @@ It shows:
 - `requests` – send HTTP requests
 - `json` – handle API response data
 
-## Output
+## Output Example
 ```
 Enter Topic Name (or 'q' to quit): Sabir Hussain Balal
 
