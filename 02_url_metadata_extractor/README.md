@@ -18,7 +18,7 @@ This is a basic step toward web scraping and SEO analysis.
 - `requests` – send HTTP requests
 - `bs4 (BeautifulSoup)` – parse HTML content
 
-## Output
+## Output Example
 ```
 Enter URL (or 'q' to quit): https://sabirhusseinbalal.github.io
 
