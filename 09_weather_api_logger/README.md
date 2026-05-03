@@ -19,7 +19,7 @@ This is a basic automation script that simulates real-world data logging.
 - `pandas` – store data in CSV
 - `pathlib` – manage file paths
 
-## Output
+## Output Example
 ```
 Enter City Name (or 'q' to quit): hyderabad
 
