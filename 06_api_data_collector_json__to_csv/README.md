@@ -17,7 +17,7 @@ It supports both:
 - `pathlib` – manage file paths
 - `shutil` – manage folders
 
-## Output
+## Output Example
 ```
 Enter URL (or 'q' to quit): https://api.github.com/users/sabirhusseinbalal
 Output folder exists. Delete and continue? (y/n): y
