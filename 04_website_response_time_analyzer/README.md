@@ -15,7 +15,7 @@ It shows:
 - `requests` – send HTTP requests
 - `time` – measure execution time
 
-## Output
+## Output Example
 ```
 Enter URL (or 'q' to quit): www.google.com
 
