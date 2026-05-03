@@ -17,7 +17,7 @@ It shows:
 - `requests` – send HTTP requests and get responses
 
 
-## Output
+## Output Example
 ```
 Enter URL (or 'q' to quit): https://sabirhusseinbalal.github.io
 
