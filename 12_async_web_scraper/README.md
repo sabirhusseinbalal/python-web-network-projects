@@ -17,7 +17,7 @@ This is faster than normal requests and introduces async concepts.
 - `asyncio` – run tasks together
 - `bs4 (BeautifulSoup)` – parse HTML
 
-## Output
+## Output Example
 ```
 Enter up to 5 URLs (or 'q' to quit):
 1: https://sabirhussainbalal.github.io
