@@ -16,7 +16,7 @@ It shows:
 - `requests` – send HTTP requests
 - `socket` – resolve domain to IP address
 
-## Output
+## Output Example
 ```
 Enter URL (or 'q' to quit): https://sabirhussainbalal.github.io
 
