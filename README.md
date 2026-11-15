@@ -44,4 +44,4 @@ Each project is simple, practical, and helps build real-world understanding of H
 5. [Security, Encryption & Utilities](https://github.com/sabirhusseinbalal/python-security-utilities)
 6. [CLI, GUI & Small Apps](https://github.com/sabirhusseinbalal/python-cli-gui-apps)
 7. [Automation Systems & Bots](https://github.com/sabirhusseinbalal/python-automation-systems)
-8. [Advanced Python Projects](https://github.com/sabirhusseinbalal/python-advanced-projects)
+8. [Advanced Python Project](https://github.com/sabirhusseinbalal/python-advanced-project)
